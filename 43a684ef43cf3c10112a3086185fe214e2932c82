@@ -1,0 +1,1 @@
+{"jobID":"a6dc8a71-c070-ae79-26d4-c238287424e4","spec":{"type":"policy","cause":{"Message":"","User":"Eslam Zain Eldeen \u003ceslamsaberzenelden@gmail.com\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"tag.nginxhello":"semver:~1.9.x"},"remove":{}}}},"result":null}
