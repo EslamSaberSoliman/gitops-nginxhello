@@ -9,7 +9,7 @@ metadata:
     fluxcd.io/automated: 'false'
 spec:
   chart:
-    git: ssh://git@github.com:EslamSaberSoliman/gitops-nginxhello.git
+    git: https://github.com/EslamSaberSoliman/gitops-nginxhello.git
     path: helm/chart
     ref: master
   rollback:
